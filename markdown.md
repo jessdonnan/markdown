@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8" />
-    <meta name="author" content="Jessica Donnan">
-    <title>Markdown Exercise</title>
-</head>
-<body>
-
-<h2>### IRELANDS RUGGED COAST YEILDS</h2>
+### IRELANDS RUGGED COAST YEILDS
 
 Priceless Relics of the Spanish Armada
 ======================================
